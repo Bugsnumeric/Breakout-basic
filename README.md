@@ -43,14 +43,8 @@ La construirea navei trebuie respectate următoarele reguli:
 
 ## 🛠️ Tehnologii folosite
 
-- Limbaj: *(completează tu, ex: C / C++ / etc.)*
-- Grafică: *(dacă ai folosit ceva – SDL, OpenGL etc.)*
+- Limbaj: *(C++)*
+- Grafică: *(OpenGL)*
 
 ---
 
-## ▶️ Cum rulezi proiectul
-
-```bash
-# exemplu (modifică în funcție de proiect)
-make
-./breakout
